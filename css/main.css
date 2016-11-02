@@ -41,4 +41,24 @@ h3 {
 .quest {
   float: left;
   width: 25%;
+  background-color: #f2f2f2;
+}
+
+.dinosaur {
+  float: left;
+  width: 25%;
+}
+
+.black {
+  float: left;
+  width: 25%;
+}
+
+.light {
+  float: left;
+  width: 25%;
+}
+
+p {
+
 }
