@@ -16,6 +16,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #f2f2f2;
 }
 
 section {
@@ -41,25 +42,25 @@ h3 {
 .quest {
   float: left;
   width: 25%;
-  background-color: #f2f2f2;
+  background-color: #e2e2e2;
 }
 
 .dinosaur {
   float: left;
   width: 25%;
-  background-color: #e2e2e2;
+  background-color: #ccc;
 }
 
 .black {
   float: left;
   width: 25%;
-  background-color: #ccc;
+  background-color: #aaa;
 }
 
 .light {
   float: left;
   width: 25%;
-  background-color: #aaa;
+  background-color: #999;
 }
 
 p {
