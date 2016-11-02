@@ -89,6 +89,7 @@ p {
   background-color: #333;
   border-radius: 10px;
   padding: .5rem;
+  margin-left: 20px;
 }
 
 .btn-small {
@@ -97,6 +98,7 @@ p {
   background-color: #333;
   border-radius: 10px;
   padding: .5rem;
+  margin-left: 20px;
 }
 
 .btn:hover {
