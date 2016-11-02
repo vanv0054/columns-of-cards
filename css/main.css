@@ -47,16 +47,19 @@ h3 {
 .dinosaur {
   float: left;
   width: 25%;
+  background-color: #e2e2e2;
 }
 
 .black {
   float: left;
   width: 25%;
+  background-color: #ccc;
 }
 
 .light {
   float: left;
   width: 25%;
+  background-color: #aaa;
 }
 
 p {
