@@ -26,11 +26,16 @@ section {
 img {
   width: 100px;
   display: block;
+  margin-left: 1.5rem;
 }
 
 h1 {
   text-align: center;
   font-size: 2rem;
+}
+
+h2 {
+  font-size: .875rem;
 }
 
 h3 {
