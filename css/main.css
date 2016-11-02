@@ -36,40 +36,49 @@ h1 {
 
 h2 {
   font-size: .875rem;
+  margin-left: -30px;
+  margin-bottom: -10px;
 }
 
 h3 {
   font-style: italic;
   font-weight: normal;
   font-size: .875rem;
+  margin-left: -30px;
+  margin-bottom: -25px;
 }
 
 .quest {
   float: left;
   width: 25%;
   background-color: #e2e2e2;
+  padding: 0 0 1.5rem;
 }
 
 .dinosaur {
   float: left;
   width: 25%;
   background-color: #ccc;
+  padding: 0 0 1.5rem;
 }
 
 .black {
   float: left;
   width: 25%;
   background-color: #aaa;
+  padding: 0 0 1.5rem;
 }
 
 .light {
   float: left;
   width: 25%;
   background-color: #999;
+  padding: 0 0 1.5rem;
 }
 
 p {
   padding: .75rem;
+  margin-left: -40px;
 }
 
 .btn {
